@@ -1,26 +1,56 @@
-### Gabriel Travensolli da Silva 👋
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabrieltravensolli/)
-[![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@g.travensolli)
+<!-- README.md -->
 
-![Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=0F0F0F&width=600&height=50&lines=Olá,+sou+Gabriel+Travensolli!" alt="Typing SVG"/>
+</p>
 
+<p align="center">
+  <a href="https://www.linkedin.com/in/gabrieltravensolli/">
+    <img src="https://img.shields.io/badge/LinkedIn-Gabriel%20Travensolli-blue?style=flat&logo=linkedin" alt="LinkedIn Badge"/>
+  </a>
+  <a href="https://medium.com/@gabrieltravensolli">
+    <img src="https://img.shields.io/badge/Medium-@gabrieltravensolli-black?style=flat&logo=medium" alt="Medium Badge"/>
+  </a>
+  <img src="https://img.shields.io/badge/Excel-Especialista-brightgreen?style=flat&logo=microsoft-excel" alt="Excel Badge"/>
+  <img src="https://img.shields.io/badge/Python-Avançado-yellow?style=flat&logo=python" alt="Python Badge"/>
+</p>
 
-![Gabriel Travensolli GitHub stats](https://github-readme-stats.vercel.app/api?username=travensolli&show_icons=true&theme=transparent)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=travensolli&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+---
 
+## 👨‍💻 Sobre Mim 
+- 🎓 Apaixonado por Ciência de Dados, Automação e Análise Financeira  
+- 🛠️ Habilidades: Python, Pandas, NumPy, Excel & VBA, Jupyter, Git, OpenAI API, WhatsApp API  
 
-<!--
-**travensolli/travensolli** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+## 🚀 Projetos Principais
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+| Projeto                                                              | Descrição                                                                                                                      |
+|----------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------|
+| [gera-apostas-lotofacil](https://github.com/travensolli/gera-apostas-lotofacil)               | Analisa dados históricos da Lotofácil e gera combinações de apostas usando métodos estatísticos e OpenAI API.                    |
+| [assistente-financeiro-whatsapp](https://github.com/travensolli/assistente-financeiro-whatsapp) | Assistente de finanças pessoais que integra mensagens via WhatsApp a um banco de dados financeiro.                            |
+| [python_scripts](https://github.com/travensolli/python_scripts)                             | Coleção de scripts Python e notebooks Jupyter para diversas tarefas de automação e processamento de dados.                       |
+| [formacao_dados_DNC](https://github.com/travensolli/formacao_dados_DNC)                   | Repositório de exercícios e projetos do curso Formação de Dados da DNC.                                                          |
+| [datascience](https://github.com/travensolli/datascience)                                   | Projetos aplicados de ciência de dados e modelagem matemática, incluindo experimentos de machine learning.                       |
+| [travensolli](https://github.com/travensolli/travensolli)                                   | Repositório pessoal que agrega perfis, links e estatísticas.                                                                     |
+
+---
+
+## 📊 Estatísticas no GitHub
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=travensolli&show_icons=true&theme=default" alt="GitHub Stats"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=travensolli&layout=compact" alt="Top Languages"/>
+</p>
+
+---
+
+## 📫 Como Me Encontrar
+
+- 📧 Email: g.travensolli@gmai.com 
+- 💼 LinkedIn: [linkedin.com/in/gabrieltravensolli](https://www.linkedin.com/in/gabrieltravensolli/)  
+- ✍️ Medium: [medium.com/@gabrieltravensolli](https://medium.com/@gabrieltravensolli)  
+
+---
+
+*Fique à vontade para explorar meus projetos e entrar em contato!*  
