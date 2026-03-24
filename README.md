@@ -15,7 +15,7 @@
   <a href="https://www.linkedin.com.br/in/gabrieltravensolli/">
     <img src="https://img.shields.io/badge/LinkedIn-Gabriel%20Travensolli-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-  <a href="https://medium.com/@gabrieltravensolli">
+  <a href="https://medium.com/@g.travensolli">
     <img src="https://img.shields.io/badge/Medium-@gabrieltravensolli-000000?style=flat&logo=medium&logoColor=white" alt="Medium"/>
   </a>
 </p>
