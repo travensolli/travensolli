@@ -37,16 +37,9 @@
 
 ## 👨‍💻 Sobre Mim
 
-Desenvolvedor com experiência profissional numa empresa de contabilidade de cálculos judiciais, onde atuo no desenvolvimento de novas aplicações e serviços, automações de processos repetitivos com **RPA**, além da manutenção e evolução contínua dos sistemas existentes.
+Desenvolvedor com experiência profissional em empresa especializada em cálculos de processos judiciais, atuando no desenvolvimento de novas aplicações e serviços, automações de processos com **RPA** e manutenção e evolução dos sistemas existentes. Sou apaixonado por **IA generativa** e construo projetos pessoais integrando LLMs (OpenAI, Google Gemini) em aplicações funcionais. Tenho base sólida em Ciência de Dados — Pandas, NumPy, Jupyter — e trabalho principalmente com **Python**, **TypeScript**, **React** e **Node.js / Express**.
 
-Sou apaixonado por **IA generativa** e levo esse interesse para além do trabalho: construo projetos pessoais integrando LLMs (OpenAI, Google Gemini) em aplicações funcionais e práticas. Tenho base sólida em Ciência de Dados — Pandas, NumPy, Jupyter — e trabalho principalmente com **Python**, **TypeScript**, **React** e **Node.js / Express**.
-
-
----
-
-## 🏢 Atuação Profissional
-
-Atuo numa empresa especializada em cálculos de processos judiciais, onde as demandas envolvem desde o desenvolvimento de novas aplicações e serviços até a manutenção e evolução das soluções já existentes. No dia a dia, trabalho com:
+No dia a dia, trabalho com:
 
 - 🌐 **Serviços HTTP** — desenvolvimento e consumo de APIs REST, tratamento de rotas, middlewares e contratos de interface entre sistemas
 - 🗄️ **Banco de Dados** — comunicação com bancos relacionais e não-relacionais, escrita de queries, mapeamento de entidades e gerenciamento de conexões
@@ -54,7 +47,7 @@ Atuo numa empresa especializada em cálculos de processos judiciais, onde as dem
 - 🤖 **Automação de Processos (RPA)** — desenvolvimento de automações para eliminar tarefas repetitivas e ganhar produtividade operacional
 - 🎭 **Automação de Browsers com Playwright** — automações de interface para interação com sistemas web
 - ⚙️ **CI/CD** — manutenção de pipelines de integração e entrega contínua com **GitHub Actions** integrado ao **Jenkins**
-- 🔄 **Metodologia Ágil (Scrum)** — sprints, refinamentos, dailies e retrospectivas no ambiente corporativo e nos projetos pessoais
+- 🔄 **Metodologia Ágil (Scrum)** — sprints, refinamentos, dailies e retrospectivas no ambiente corporativo e acadêmico
 
 ---
 
