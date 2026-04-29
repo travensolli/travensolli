@@ -70,6 +70,12 @@ No dia a dia, trabalho com:
 | [datascience](https://github.com/travensolli/datascience) | Projetos aplicados de ciência de dados e modelagem matemática | Python |
 | [python_scripts](https://github.com/travensolli/python_scripts) | Scripts e notebooks para automação e processamento de dados | Python · Jupyter |
 
+### 🎓 Projeto Acadêmico
+
+| Projeto | Papel | Descrição | Stack |
+|---------|-------|-----------|-------|
+| [scrum-flow-abp](https://github.com/DEVassos/scrum-flow-abp) | **Scrum Master** | Portal web de certificação interna em metodologia ágil — projeto semestral da Fatec Jacareí, desenvolvido em equipe de 7 pessoas com Git Flow · `em andamento` | HTML · CSS · JavaScript · Node.js · PostgreSQL |
+
 <details>
 <summary>📚 Formação & Exercícios</summary>
 <br>
