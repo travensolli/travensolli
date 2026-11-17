@@ -8,7 +8,7 @@
 <h3 align="center">Desenvolvedor Backend & IA aplicada · Python · TypeScript · Automação</h3>
 
 <p align="center">
-  🇧🇷 Português · <a href="README.en.md">🇺🇸 English</a>
+  🇧🇷 Português · <a href="https://github.com/travensolli/travensolli/blob/main/README.en.md">🇺🇸 English</a>
 </p>
 
 <p align="center">
