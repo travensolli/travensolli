@@ -1,0 +1,78 @@
+# Gera os cards de estatísticas do perfil e publica na branch `output`.
+# A branch `main` nunca recebe commits deste workflow.
+#
+# Token: usa o secret METRICS_TOKEN (PAT clássico com escopos `read:user` e `repo`,
+# para incluir contribuições privadas). Sem ele, cai no GITHUB_TOKEN e mostra só dados públicos.
+
+name: Atualizar cards do perfil
+
+on:
+  schedule:
+    - cron: "0 6 * * *" # todo dia às 03:00 (horário de Brasília)
+  workflow_dispatch:
+  push:
+    branches: [main]
+    paths: [.github/workflows/metrics.yml]
+
+permissions:
+  contents: write
+
+concurrency:
+  group: metrics
+  cancel-in-progress: true
+
+jobs:
+  cards:
+    runs-on: ubuntu-latest
+    env:
+      STATS_OPTS: show_icons=true&hide_border=true&show=reviews,prs_merged
+      LANGS_OPTS: layout=compact&langs_count=8&hide_border=true&hide=html,css,jupyter%20notebook
+
+    steps:
+      - uses: actions/checkout@v6
+
+      - name: Stats (claro)
+        uses: stats-organization/github-readme-stats-action@v2
+        with:
+          card: stats
+          options: username=${{ github.repository_owner }}&${{ env.STATS_OPTS }}&theme=default
+          path: profile/stats.svg
+          token: ${{ secrets.METRICS_TOKEN || secrets.GITHUB_TOKEN }}
+          fail_on_error: true
+
+      - name: Stats (escuro)
+        uses: stats-organization/github-readme-stats-action@v2
+        with:
+          card: stats
+          options: username=${{ github.repository_owner }}&${{ env.STATS_OPTS }}&theme=github_dark
+          path: profile/stats-dark.svg
+          token: ${{ secrets.METRICS_TOKEN || secrets.GITHUB_TOKEN }}
+          fail_on_error: true
+
+      - name: Linguagens (claro)
+        uses: stats-organization/github-readme-stats-action@v2
+        with:
+          card: top-langs
+          options: username=${{ github.repository_owner }}&${{ env.LANGS_OPTS }}&theme=default
+          path: profile/top-langs.svg
+          token: ${{ secrets.METRICS_TOKEN || secrets.GITHUB_TOKEN }}
+          fail_on_error: true
+
+      - name: Linguagens (escuro)
+        uses: stats-organization/github-readme-stats-action@v2
+        with:
+          card: top-langs
+          options: username=${{ github.repository_owner }}&${{ env.LANGS_OPTS }}&theme=github_dark
+          path: profile/top-langs-dark.svg
+          token: ${{ secrets.METRICS_TOKEN || secrets.GITHUB_TOKEN }}
+          fail_on_error: true
+
+      - name: Publicar na branch output
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git checkout --orphan output
+          git rm -rf --cached . --quiet
+          git add profile/*.svg
+          git commit -m "chore: atualizar cards do perfil"
+          git push --force origin output
