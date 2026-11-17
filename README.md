@@ -16,7 +16,7 @@
     <img src="https://img.shields.io/badge/LinkedIn-Gabriel%20Travensolli-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   <a href="https://medium.com/@g.travensolli">
-    <img src="https://img.shields.io/badge/Medium-@gabrieltravensolli-000000?style=flat&logo=medium&logoColor=white" alt="Medium"/>
+    <img src="https://img.shields.io/badge/Medium-@g.travensolli-000000?style=flat&logo=medium&logoColor=white" alt="Medium"/>
   </a>
 </p>
 
@@ -58,7 +58,6 @@ No dia a dia, trabalho com:
 | Projeto | Descrição | Stack |
 |---------|-----------|-------|
 | [vocabulary-flashcard-generator](https://github.com/travensolli/vocabulary-flashcard-generator) · [🌐 Demo](https://vocabulary-flashcard-generator.vercel.app/) | Gera flashcards de vocabulário infantil com ilustrações em diferentes estilos via IA generativa | TypeScript · React · Express · Gemini API |
-| [pedagogical-worksheet-generator](https://github.com/travensolli/pedagogical-worksheet-generator) | Gerador de atividades pedagógicas personalizadas com IA | TypeScript · React · OpenAI API |
 | [feed-analyzer](https://github.com/travensolli/feed-analyzer) | Sistema inteligente de coleta, análise e priorização de notícias RSS com IA | Python |
 | [assistente-financeiro-whatsapp](https://github.com/travensolli/assistente-financeiro-whatsapp) | Assistente de finanças pessoais integrado ao WhatsApp | Python |
 | [gera-apostas-lotofacil](https://github.com/travensolli/gera-apostas-lotofacil) | Análise estatística de dados históricos e gerador de apostas para a Lotofácil via OpenAI | Python · OpenAI API|
@@ -82,9 +81,9 @@ No dia a dia, trabalho com:
 
 | Projeto | Descrição | Stack |
 |---------|-----------|-------|
-| [dev-web1-atv3](https://github.com/travensolli/dev-web1-atv3) | Acesso ao BD | JavaScript |
-| [dev-web1-atv2](https://github.com/travensolli/dev-web1-atv2) | HTTP Request | JavaScript |
-| [dev-web1-atv1](https://github.com/travensolli/dev-web1-atv1) | App Web com Express | HTML |
+| [isw028-atividade3](https://github.com/travensolli/isw028-atividade3) | API REST com acesso ao PostgreSQL | JavaScript · Express · PostgreSQL |
+| [isw028-atividade2](https://github.com/travensolli/isw028-atividade2) | Consulta de CEP via requisição HTTP (ViaCEP) | JavaScript |
+| [isw028-atividade1](https://github.com/travensolli/isw028-atividade1) | App Web com Express | HTML · Node.js · Express |
 | [formacao_dados_DNC](https://github.com/travensolli/formacao_dados_DNC) | Exercícios do curso Formação em Dados — DNC | Python · Jupyter |
 
 </details>
@@ -93,13 +92,10 @@ No dia a dia, trabalho com:
 
 ## 📊 Estatísticas no GitHub
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=travensolli&show_icons=true&theme=default&hide_border=true" alt="GitHub Stats"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=travensolli&layout=compact&hide_border=true" alt="Top Languages"/>
-</p>
+<!-- métricas: cards gerados pelo workflow .github/workflows/metrics.yml (em breve) -->
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=travensolli&hide_border=true" alt="GitHub Streak"/>
+  <img src="https://streak-stats.demolab.com/?user=travensolli&hide_border=true" alt="GitHub Streak"/>
 </p>
 
 ---
@@ -115,7 +111,7 @@ No dia a dia, trabalho com:
 
 - 📧 Email: [g.travensolli@gmail.com](mailto:g.travensolli@gmail.com)
 - 💼 LinkedIn: [linkedin.com/in/gabrieltravensolli](https://www.linkedin.com/in/gabrieltravensolli/)
-- ✍️ Medium: [medium.com/@gabrieltravensolli](https://medium.com/@gabrieltravensolli)
+- ✍️ Medium: [medium.com/@g.travensolli](https://medium.com/@g.travensolli)
 
 ---
 
